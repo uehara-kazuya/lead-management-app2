@@ -1,0 +1,5 @@
+{
+  "name": "リード管理一覧",
+  "description": "A high-performance database viewer that synchronizes in real-time with Google Spreadsheets, featuring dynamic column detection, advanced filtering, and AI-powered data insights.",
+  "requestFramePermissions": []
+}
